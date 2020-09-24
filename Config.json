@@ -1,0 +1,13 @@
+{
+  "Telegram": {
+    "API":,
+    "GroupChat":
+  },
+
+  "MongoDB": {
+    "Username":,
+    "Password":,
+    "DBName":
+  }
+
+}
